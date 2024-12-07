@@ -8,7 +8,7 @@ using IImage = Microsoft.Maui.Graphics.IImage;
 using System.Collections;
 
 
-namespace SlotView.Maui;
+namespace SlotViewMaui;
 
 public class SlotView : GraphicsView
 {
