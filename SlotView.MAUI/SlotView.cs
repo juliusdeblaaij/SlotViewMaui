@@ -301,6 +301,7 @@ public class SlotView : GraphicsView
 		Slot.VisibleCount = VisibleCount;
 		Slot.Delay = Delay;
 		Slot.Duration = Duration;
+		Slot.Direction = Direction;
 
 		SizeChanged += SlotView_SizeChanged;
 		Background = new SolidColorBrush(Colors.Red);
